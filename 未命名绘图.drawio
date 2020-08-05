@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T08:39:34.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="2jWdc6alwy9iK8HsSGDP" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T08:53:53.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="qOEwlxVMI8M9vgAt4E5D" version="13.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2013" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,6 +257,86 @@
         </mxCell>
         <mxCell id="fYhxwDGDU4FG3BAdoPt3-80" value="区域" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-400" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-87" value="运营平台资金账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-780" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-88" value="行业代表资金账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-610" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-89" value="乡镇服务站资金账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-420" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-90" value="商家资金账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-780" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-91" value="用户资金账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-600" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-92" value="用工资金账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-413" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-93" value="渠道资金账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-270" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-94" value="信息员资金账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-270" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fYhxwDGDU4FG3BAdoPt3-95" target="fYhxwDGDU4FG3BAdoPt3-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fYhxwDGDU4FG3BAdoPt3-95" target="fYhxwDGDU4FG3BAdoPt3-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fYhxwDGDU4FG3BAdoPt3-95" target="fYhxwDGDU4FG3BAdoPt3-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fYhxwDGDU4FG3BAdoPt3-95" target="fYhxwDGDU4FG3BAdoPt3-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-600" y="2170" />
+              <mxPoint x="-600" y="2490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-95" value="订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-760" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fYhxwDGDU4FG3BAdoPt3-96" target="fYhxwDGDU4FG3BAdoPt3-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-96" value="下单区域" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-560" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-98" value="下单区域的乡镇服务站" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fYhxwDGDU4FG3BAdoPt3-100" target="fYhxwDGDU4FG3BAdoPt3-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-100" value="商品归属行业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-560" y="2230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-102" value="行业代表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="2230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fYhxwDGDU4FG3BAdoPt3-104" target="fYhxwDGDU4FG3BAdoPt3-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-104" value="信息员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fYhxwDGDU4FG3BAdoPt3-105" target="fYhxwDGDU4FG3BAdoPt3-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-105" value="购买用户是否是会员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-560" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-108" value="渠道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-170" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYhxwDGDU4FG3BAdoPt3-110" value="运营平台资金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="2460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
